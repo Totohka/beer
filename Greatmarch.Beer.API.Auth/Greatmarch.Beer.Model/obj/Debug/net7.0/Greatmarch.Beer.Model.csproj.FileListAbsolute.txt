@@ -1,0 +1,11 @@
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\bin\Debug\net7.0\Greatmarch.Beer.Model.deps.json
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\bin\Debug\net7.0\Greatmarch.Beer.Model.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\bin\Debug\net7.0\Greatmarch.Beer.Model.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.AssemblyInfoInputs.cache
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.AssemblyInfo.cs
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.csproj.CoreCompileInputs.cache
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\refint\Greatmarch.Beer.Model.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\Greatmarch.Beer.Model.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.Model\obj\Debug\net7.0\ref\Greatmarch.Beer.Model.dll

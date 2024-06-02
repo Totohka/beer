@@ -1,0 +1,17 @@
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.DomainService.deps.json
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.DomainService.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.DomainService.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.DAL.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.Model.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.DAL.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\bin\Debug\net7.0\Greatmarch.Beer.Model.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.csproj.AssemblyReference.cache
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.AssemblyInfoInputs.cache
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.AssemblyInfo.cs
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.csproj.CoreCompileInputs.cache
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.csproj.CopyComplete
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\refint\Greatmarch.Beer.DomainService.dll
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\Greatmarch.Beer.DomainService.pdb
+C:\Users\димон\source\repos\Greatmarch.Beer.API.Auth\Greatmarch.Beer.DomainService\obj\Debug\net7.0\ref\Greatmarch.Beer.DomainService.dll

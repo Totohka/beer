@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatmarch.Beer.API.Auth", "Greatmarch.Beer.API.Auth\Greatmarch.Beer.API.Auth.csproj", "{3FA5D59B-6128-4E09-B883-F92D1F5730EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatmarch.Beer.DomainService", "Greatmarch.Beer.DomainService\Greatmarch.Beer.DomainService.csproj", "{80D02E08-B2BC-4CD0-90CA-519CF12D8CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatmarch.Beer.DAL", "Greatmarch.Beer.DAL\Greatmarch.Beer.DAL.csproj", "{0E25948C-023E-48B1-B59F-73E33E8E1AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greatmarch.Beer.Model", "Greatmarch.Beer.Model\Greatmarch.Beer.Model.csproj", "{A412D10C-473D-41AD-8578-2D6D749B853F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA5D59B-6128-4E09-B883-F92D1F5730EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA5D59B-6128-4E09-B883-F92D1F5730EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA5D59B-6128-4E09-B883-F92D1F5730EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA5D59B-6128-4E09-B883-F92D1F5730EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D02E08-B2BC-4CD0-90CA-519CF12D8CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D02E08-B2BC-4CD0-90CA-519CF12D8CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D02E08-B2BC-4CD0-90CA-519CF12D8CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D02E08-B2BC-4CD0-90CA-519CF12D8CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E25948C-023E-48B1-B59F-73E33E8E1AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E25948C-023E-48B1-B59F-73E33E8E1AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E25948C-023E-48B1-B59F-73E33E8E1AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E25948C-023E-48B1-B59F-73E33E8E1AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A412D10C-473D-41AD-8578-2D6D749B853F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A412D10C-473D-41AD-8578-2D6D749B853F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A412D10C-473D-41AD-8578-2D6D749B853F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A412D10C-473D-41AD-8578-2D6D749B853F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {213C5D96-8A71-4522-B22C-CB80889DB4C2}
+	EndGlobalSection
+EndGlobal

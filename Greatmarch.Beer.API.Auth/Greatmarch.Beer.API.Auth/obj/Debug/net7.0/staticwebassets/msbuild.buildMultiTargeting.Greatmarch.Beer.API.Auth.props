@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Greatmarch.Beer.API.Auth.props" />
+</Project>
